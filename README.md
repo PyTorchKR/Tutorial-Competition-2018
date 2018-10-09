@@ -75,7 +75,7 @@
 ## 상품
 
 - Best Tutorial Award (1팀)
-	- [NVIDIA Titan XP](https://www.nvidia.com/en-us/titan/titan-xp/)
+	- [NVIDIA Titan XP](https://www.nvidia.com/ko-kr/titan/titan-xp/)
 	    - 2018 CVPR VQA Challenge Runners-up 부상
 	    - Jin-Hwa Kim (SK T-Brain), Jaehyun Jun (SNU) and Byoung-Tak Zhang (SNU) 팀에서 기증해 주셨습니다.
 	- PyTorch KR DevCon 2018 에서 튜토리얼 진행
