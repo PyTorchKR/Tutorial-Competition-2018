@@ -17,7 +17,7 @@
 
 그래서 [**PyTorch KR**](https://www.facebook.com/groups/PyTorchKR/) 는 수많은 논문들을 빠르고 명확하게, 그리고 함께 이해하기 위해서 **Tutorial Competition 2018** 을 개최합니다. 특정 논문 또는 주제 (복수 논문) 를 선정하고, 자유 형식으로 한국어 튜토리얼을 만들어주세요!
 
-수상자분들께는 상품과 함께 2018년 12월에 열릴 **PyTorch KR DevCon 2018** 에서 자신이 만든 튜토리얼을 직접 소개할 기회를 드립니다!
+수상자분들께는 상품과 함께 2019년 1월에 열릴 **PyTorch KR DevCon** 에서 자신이 만든 튜토리얼을 직접 소개할 기회를 드립니다!
 
 ## 규칙
 
@@ -54,9 +54,9 @@
 * [예시 Issue](https://github.com/PyTorchKR/Tutorial-Competition-2018/issues/1)
 
 
-1. Abstract 제출 (2018년 11월 10일 (토) 마감)
+1. Abstract 제출 (2018년 11월 30일 (금) 마감)
     - 제출할 튜토리얼에 대한 간단한 설명
-2. 튜토리얼 제출 (2018년 12월 1일 (토) 마감)
+2. 튜토리얼 제출 (2018년 12월 15일 (토) 마감)
     - 웹에 튜토리얼 개재
     - docker image 생성
     - Issue 에 튜토리얼 및 docker image 링크
@@ -66,10 +66,10 @@
 ## 일정
 
 1. 2018년 10월 9일 (화): Tutorial Competition 시작
-2. 2018년 11월 10일 (토): Abstract 등록 마감
-3. 2018년 12월 1일 (토): 튜토리얼 접수 마감
-4. 2018년 12월 8일 (토): 수상자 발표
-5. 2018년 12월 15일 (토): PyTorch KR Developer Conference 2018
+2. 2018년 11월 30일 (금): Abstract 등록 마감
+3. 2018년 12월 15일 (토): 튜토리얼 접수 마감
+4. 2018년 12월 30일 (일): 수상자 발표
+5. 2019년 1월 19일 (토): PyTorch KR Developer Conference
 
 
 ## 상품
