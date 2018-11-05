@@ -98,5 +98,8 @@
     - Abstract 은 [예시 Issue](https://github.com/PyTorchKR/Tutorial-Competition-2018/issues/1) 를 참고하여 간결하게 작성해주시면 됩니다.
     - 튜토리얼의 분량에 대한 제한은 따로 없습니다.
 
+## 주최
+<a href="https://www.facebook.com/groups/PyTorchKR/"><img src="https://avatars2.githubusercontent.com/u/35714100?s=400&u=8b7264f80c745a0b5ece8bede452ea50e09d6d65&v=4" alt="drawing" width="200"/></a>
+
 ## 문의
 - Email: pytorchkr@gmail.com
