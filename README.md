@@ -101,5 +101,8 @@
 ## 주최
 <a href="https://www.facebook.com/groups/PyTorchKR/"><img src="https://avatars2.githubusercontent.com/u/35714100?s=400&u=8b7264f80c745a0b5ece8bede452ea50e09d6d65&v=4" alt="drawing" width="200"/></a>
 
+<meta property="og:image" content="https://avatars2.githubusercontent.com/u/35714100?s=400&u=8b7264f80c745a0b5ece8bede452ea50e09d6d65&v=4" />
+
+
 ## 문의
 - Email: pytorchkr@gmail.com
