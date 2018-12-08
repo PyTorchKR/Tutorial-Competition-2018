@@ -27,7 +27,7 @@
     * 모든 용어를 한국어로 번역할 필요는 없음 (ex. Convolution, Attention, Dropout 등)
 * 코드
     * 모든 코드는 Pseudocode 가 아닌, 실행 가능한 코드여야 함
-    * [PyTorch 1.0](https://github.com/pytorch/pytorch/releases/tag/v1.0rc1) 기반으로 작성
+    * [PyTorch 1.0](https://github.com/pytorch/pytorch/releases/tag/v1.0.0) 기반으로 작성
     * 출처를 밝히고 외부 코드 일부 사용 가능
     * 튜토리얼에 사용된 모든 데이터 및 dependency가 설치된 public docker image 작성
         * `docker run -it 도커 이미지 python main.py` 으로 결과 재현이 가능해야 함
