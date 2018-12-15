@@ -50,16 +50,17 @@
 
 ## 제출 방법
 
-본 행사 참가는 [GitHub 페이지](https://github.com/PyTorchKR/Tutorial-Competition-2018) 에 Issue를 등록함으로써 이루어집니다. 먼저 간략히 Abstract 형태의 Issue 를 등록한 후, 해당 Issue 에 본 튜토리얼을 링크함으로써 제출이 완료됩니다.
+본 행사 참가는 [GitHub 페이지](https://github.com/PyTorchKR/Tutorial-Competition-2018) 에 Issue를 등록함으로써 이루어집니다. 먼저 간략히 Abstract 형태의 Issue 를 등록한 후, 해당 Issue 의 Comment 로 본 튜토리얼을 링크함으로써 제출이 완료됩니다.
 * [예시 Issue](https://github.com/PyTorchKR/Tutorial-Competition-2018/issues/1)
 
 
 1. Abstract 제출 (2018년 11월 30일 (금) 마감)
+    - Issue 형태로 등록
     - 제출할 튜토리얼에 대한 간단한 설명
 2. 튜토리얼 제출 (2018년 12월 15일 (토) 마감)
     - 웹에 튜토리얼 개재
     - docker image 생성
-    - Issue 에 튜토리얼 및 docker image 링크
+    - Abstract Issue 의 Comment 로 튜토리얼 및 docker image 링크
     - 마감일 후에는 제출한 튜토리얼 / 이미지 및 Issue 수정 불가
 
 
