@@ -87,11 +87,13 @@
 ## 심사위원
 
 - Jin-Hwa Kim (SK T-Brain)
+- Tae Yoon Kim (SK T-Brain)
 - Hwalsuk Lee (NAVER Clova)
 - Nako Sung (NAVER Clova)
 - Yunjey Choi (NAVER Clova)
 - Keon Kim (Uber)
 - Taehoon Kim (OpenAI)
+- Sungbin Lim (KakaoBrain)
 
 ## FAQ
 
