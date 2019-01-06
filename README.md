@@ -101,7 +101,7 @@
     - Abstract 은 [예시 Issue](https://github.com/PyTorchKR/Tutorial-Competition-2018/issues/1) 를 참고하여 간결하게 작성해주시면 됩니다.
     - 튜토리얼의 분량에 대한 제한은 따로 없습니다.
 
-## 결과
+## 수상자 발표 (2019. 1. 6.)
 
 * Best Tutorial Award
   - [DARTS: Differentiable Architecture Search Tutorial (차준범)](https://github.com/PyTorchKR/Tutorial-Competition-2018/issues/3)
