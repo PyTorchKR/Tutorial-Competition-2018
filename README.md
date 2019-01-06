@@ -106,7 +106,6 @@
 * Best Tutorial Award
   - [DARTS: Differentiable Architecture Search Tutorial (차준범)](https://github.com/PyTorchKR/Tutorial-Competition-2018/issues/3)
   - NVIDIA Titan XP
-  - ~PyTorch KR Developer Conference 2019 튜토리얼 발표~ (불참)
 * Runners-up
   - [Geometric Deep Learning for Non-Euclidean Graphs (김범수)](https://github.com/PyTorchKR/Tutorial-Competition-2018/issues/8)
   - [You Only Look Once (황동현, 이재원, 정찬희)](https://github.com/PyTorchKR/Tutorial-Competition-2018/issues/5)
